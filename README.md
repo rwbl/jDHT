@@ -5,6 +5,8 @@ The library is written in B4J (requires v5.80 or higher) making use of Inline Ja
 
 [B4J](https://www.b4x.com/b4j.html) development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
 
+__Library Version__: 1.01 (Build 20170601)
+
 ## Files
 * jDHT.zip contains the library and sample projects.
 * jDHT.pdf manual
