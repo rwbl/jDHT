@@ -1,9 +1,9 @@
 # b4j-library-jdht
 jDHT is an open source B4J library for the digital-output relative humidity &amp; temperature sensors DHT11 &amp; DHT22 connected to a Raspberry Pi.
 
-[B4J](https://www.b4x.com/b4j.html) development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
-
 The library is written in B4J (requires v5.80 or higher) making use of Inline Java (requires Java 8 update 40 or higher).
+
+[B4J](https://www.b4x.com/b4j.html) development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
 
 ## Files
 * jDHT.zip contains the library and sample projects.
