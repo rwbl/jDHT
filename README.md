@@ -5,11 +5,13 @@ The library is written in B4J (requires v5.80 or higher) making use of Inline Ja
 
 [B4J](https://www.b4x.com/b4j.html) development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com).
 
-The library
+The library has been created for **personal use**  only. If planned for commercial use, ensure to comply to the [Oracle JDK License Agreement](https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html). 
 
-* is based upon [this](http://hirt.se/blog/?p=493) project (recommend to read the blog,  many thanks to the author).
-* if a sensor value can not be read, NaN is returned.
-* tested with the sensors DHT11 and DHT22 (see sample code) connected to a Raspberry Pi 3.
+## Notes
+
+* Library is based upon [this](http://hirt.se/blog/?p=493) project (recommend to read the blog,  many thanks to the author).
+* If a sensor value can not be read, NaN is returned.
+* Library tested with sensors DHT11 and DHT22 (see sample code) connected to a Raspberry Pi 3B.
 
 __Library Version__: 1.01 (Build 20170601)
 
